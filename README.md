@@ -1,8 +1,6 @@
-# Desafio frontend
+## 💪 O desafio 
 
 Olá seja bem vindo ao desafio técnico para vaga de <b>desenvolvedor Python pleno</b>.
-
-## 💪 O desafio 
 
 Como bons brasileiros gostamos de uma boa música para curtir nos momentos mais apropriados com as pessoas que gostamos. Esperamos que você também goste de música e do clima agradável do nosso país, pois é a partir disso que sua solução será criada.
 
